@@ -2,7 +2,8 @@ FinControl
 
 O FinControl é um aplicativo de controle financeiro desenvolvido para ajudar usuários a organizar suas finanças pessoais de forma simples, rápida e visual. Com ele, é possível registrar receitas e despesas, acompanhar gráficos e visualizar relatórios completos sobre o comportamento financeiro ao longo do tempo.
 
-📲 Funcionalidades Principais
+📲 Funcionalidades Principais 
+
 🔐 Autenticação
 
 Cadastro de usuários com:
@@ -87,8 +88,7 @@ Informações detalhadas para auxiliar na análise financeira completa
 
 👤 Fluxo de Cadastro e Primeiro Acesso
 
-Ao criar uma conta, o usuário passa pela tela de Saldo Inicial, onde pode informar quanto possui no momento para começar o controle.
-Isso permite que os cálculos e gráficos iniciem de forma precisa desde o primeiro uso.
+Ao criar uma conta, o usuário passa pela tela de Saldo Inicial, onde pode informar quanto possui no momento para começar o controle. Isso permite que os cálculos e gráficos iniciem de forma precisa desde o primeiro uso.
 
 🎨 Interface
 
