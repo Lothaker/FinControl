@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "210724087366",
+    "project_id": "fincontrol-c2f77",
+    "storage_bucket": "fincontrol-c2f77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210724087366:android:048938510d78807b23cc47",
+        "android_client_info": {
+          "package_name": "com.mycompany.startup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210724087366-kvhiccq2vp7s3bi7qu8kcpder9mkra72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXXgpiC4Tcx2ZxPtI4em9oRi9XGfjDbQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210724087366-kvhiccq2vp7s3bi7qu8kcpder9mkra72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "210724087366-f2ldru9gee8ihk0q9v3vcs4qlk5mv7qr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.startup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
